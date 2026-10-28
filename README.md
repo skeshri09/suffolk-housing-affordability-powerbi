@@ -4,6 +4,8 @@ Power BI dashboard analysing house price affordability in Suffolk and its five d
 
 ![Dashboard](dashboard.png)
 
+**How to view:** Open Suffolk_Housing_Affordability.pbix in Power BI Desktop (free), or see dashboard.png for a preview.
+
 ## Summary of findings
 - Median house prices rose about 188% between 2002 and 2025; median earnings rose about 96%
 - The price-to-earnings ratio rose from 5.2x (2002) to a peak of 9.5x (2021), then eased to 7.7x (2025). The 5-year average is 8.7x
